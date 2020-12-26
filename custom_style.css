@@ -78,3 +78,26 @@ input[type="text"] {
   color: white;
   border-radius: 50%;
 }
+
+/* local favorites */
+
+.favorites {
+  margin-left: 30px;
+}
+
+.favorites-grid {
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+.grid-title {
+  font-size: 14px;
+}
+
+.grid-subtitle {
+  font-size: 14px;
+}
+
+.grid-img:hover {
+  cursor: pointer;
+}
