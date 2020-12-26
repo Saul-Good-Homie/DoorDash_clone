@@ -101,3 +101,32 @@ input[type="text"] {
 .grid-img:hover {
   cursor: pointer;
 }
+
+/* door dasher actions grid */
+
+.dash-actions {
+  margin-left: 30px;
+  margin-right: 30px;
+  margin-top: 50px;
+}
+
+.action-title {
+  text-align: center;
+  font-size: 24px;
+}
+
+.action-subtitle {
+  text-align: center;
+  font-size: 16px;
+  margin-top: 10px;
+}
+
+.action-link {
+  font-size: 20px;
+  color: rgb(235, 23, 0);
+  text-align: center;
+  margin-top: 10px;
+}
+.action-link:hover {
+  cursor: pointer;
+}
